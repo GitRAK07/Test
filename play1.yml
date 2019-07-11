@@ -3,3 +3,4 @@
   hosts: private
   - tasks:
     name: install docker
+    yum: 
